@@ -2,7 +2,7 @@ fastapi==0.54.1
 uvicorn==0.11.3
 asynctest==0.13.0
 requests==2.23.0
-pydantic==1.5
+pydantic==1.6.2
 coverage==5.0
 aiohttp==3.6.2
 
